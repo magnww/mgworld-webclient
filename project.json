@@ -1,0 +1,26 @@
+{
+  "project_type": "javascript",
+  "debugMode": 1,
+  "showFPS": true,
+  "frameRate": 60,
+  "id": "gameCanvas",
+  "renderMode": 1,
+  "engineDir": "frameworks/cocos2d-html5",
+  "modules": [
+    "cocos2d"
+  ],
+  "jsList": [
+    "src/resource.js",
+    "src/config/config.js",
+    "src/play/scene/play.js",
+    "src/play/class/network.js",
+    "src/play/layer/background.js",
+    "src/play/layer/static.js",
+    "src/play/layer/object.js",
+    "src/play/layer/ui.js",
+    "src/play/layer/touch.js",
+    "src/play/sprite/building.js",
+    "src/play/sprite/character.js",
+    "src/tool/tool.js"
+  ]
+}
