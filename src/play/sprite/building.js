@@ -8,7 +8,5 @@ var BuildingSprite = cc.Sprite.extend({
         this._super(arg.res || "#tent.png");
         this.x = arg.x;
         this.y = arg.y;
-        //this.anchorX = 0;
-        //this.anchorY = 0;
     }
 });
